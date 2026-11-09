@@ -3,6 +3,7 @@ message: "If you use this package, please cite it as below."
 title: "GDPR, AI Act and ISO 27001 as Pillars of Corporate Accountability for Personal Data in AI Systems - search protocol and data"
 version: 1.0.0
 date-released: 2026-11-09
+doi: "10.5281/zenodo.24066020"
 license: CC-BY-4.0
 authors:
   - family-names: Boban

@@ -1,5 +1,7 @@
 # GDPR, AI Act and ISO 27001 as Pillars of Corporate Accountability for Personal Data in AI Systems - search protocol and data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24066020.svg)](https://doi.org/10.5281/zenodo.24066020)
+
 Replication package for the paper by **Marija Boban, Vedran Uroš and Ratko Brnabić**, submitted to the LIMEN 2026 conference.
 
 The package documents the structured literature search in Scopus and Web of Science (8-9 November 2026), the screening record, the list of studies included in the synthesis, and the data and code used to produce Figures 1 and 2. The manuscript itself is not included.
@@ -40,4 +42,6 @@ Data and documentation: CC BY 4.0 (see `LICENSE-DATA.md`). Code: MIT (see `LICEN
 
 ## How to cite
 
-See `CITATION.cff`.
+Boban, M., Uroš, V., & Brnabić, R. (2026). *GDPR, AI Act and ISO 27001 as Pillars of Corporate Accountability for Personal Data in AI Systems - search protocol and data* (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24066020
+
+See also `CITATION.cff`.
