@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "GDPR, AI Act and ISO 27001 as Pillars of Corporate Accountability for Personal Data in AI Systems - search protocol and data"
+version: 1.0.0
+date-released: 2026-11-09
+license: CC-BY-4.0
+authors:
+  - family-names: Boban
+    given-names: Marija
+    orcid: "https://orcid.org/0000-0001-6075-8794"
+    affiliation: "Faculty of Law, University of Split"
+  - family-names: Uroš
+    given-names: Vedran
+    orcid: "https://orcid.org/0009-0007-6568-0827"
+    affiliation: "University Department of Professional Studies at the University of Split; Faculty of Organization and Informatics, University of Zagreb"
+  - family-names: Brnabić
+    given-names: Ratko
+    orcid: "https://orcid.org/0000-0001-7057-6943"
+    affiliation: "Faculty of Law, University of Split"
+keywords:
+  - GDPR
+  - AI Act
+  - ISO 27001
+  - corporate accountability
+  - structured literature review
+repository-code: "https://github.com/vedranu/gdpr-ai-act-corporate-accountability"

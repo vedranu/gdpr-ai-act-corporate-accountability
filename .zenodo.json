@@ -1,0 +1,13 @@
+{
+  "title": "GDPR, AI Act and ISO 27001 as Pillars of Corporate Accountability for Personal Data in AI Systems - search protocol and data",
+  "upload_type": "dataset",
+  "description": "Replication package for a structured literature review (Scopus and Web of Science, searched 8-9 November 2026) on corporate accountability for personal data in AI systems under the GDPR, the AI Act, NIS2 and ISO/IEC 27001. Contains the full Boolean search strings, record counts, the screening record, the list of 22 included studies with DOIs, and data and code for Figures 1 and 2. The manuscript is not included.",
+  "creators": [
+    {"name": "Boban, Marija", "affiliation": "Faculty of Law, University of Split", "orcid": "0000-0001-6075-8794"},
+    {"name": "Uroš, Vedran", "affiliation": "University Department of Professional Studies at the University of Split; Faculty of Organization and Informatics, University of Zagreb", "orcid": "0009-0007-6568-0827"},
+    {"name": "Brnabić, Ratko", "affiliation": "Faculty of Law, University of Split", "orcid": "0000-0001-7057-6943"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["GDPR", "AI Act", "ISO 27001", "NIS2", "corporate accountability", "structured literature review"],
+  "access_right": "open"
+}

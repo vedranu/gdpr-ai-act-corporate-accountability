@@ -1,0 +1,10 @@
+stage,n,note
+records_identified_core,367,Scopus 234 + Web of Science 133
+duplicates_removed,119,title matching; 14 Web of Science records not in Scopus
+records_screened,248,title and abstract
+excluded_screening,208,domain-specific technical or clinical applications without organizational governance perspective
+assessed_eligibility,40,
+excluded_assessment,24,"no corporate accountability mechanism analyzed in depth, or overlapping content"
+included_core,16,
+added_thematic,6,"directly address ISMS, NIS2 or staff training as compliance instruments; not captured by core query due to terminology"
+included_total,22,
